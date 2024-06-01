@@ -6,7 +6,10 @@
     "require": {
         "php": ">=8.1",
         "illuminate/support": "^10.0|^11.0",
-        "spatie/laravel-permission": "^5.5",
+        "illuminate/auth": "^10.0|^11.0",
+        "illuminate/database": "^10.0|^11.0",
+        "illuminate/config": "^10.0|^11.0",
+        "spatie/laravel-permission": "^6.0",
         "phpunit/phpunit": "^9.0|^10.0|^11.0"
     },
     "autoload": {
