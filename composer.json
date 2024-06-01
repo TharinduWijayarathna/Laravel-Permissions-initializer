@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Tharindu\\LaravelPermissionUI\\DomainServiceProvider"
+                "Tharindu\\LaravelPermissionUI\\PermissionServiceProvider"
             ]
         }
     },
